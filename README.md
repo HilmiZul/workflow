@@ -1,5 +1,5 @@
 # 👩🏻‍💻 WORKFLOW DEVELOPMENT 👨🏻‍💻
-Alur kerja pengembangan sebelum memulai praktik pemrogaman.
+Alur kerja pengembangan sebelum atau selama memulai proyek.
 
 ### Tujuan 🎯
 1. Menciptakan kebiasan dasar untuk menjadi profesional
