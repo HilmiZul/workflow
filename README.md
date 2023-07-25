@@ -1,5 +1,6 @@
-# 👩🏻‍💻 WORKFLOW DEVELOPMENT 👨🏻‍💻
-Alur kerja pengembangan sebelum atau selama memulai proyek.
+# 👩🏻‍💻 WORKFLOW Pre-DEVELOPMENT 👨🏻‍💻
+Dasar-dasar alur kerja pengembangan sebelum atau selama memulai proyek. 
+Didalam sini terdiri diri beberapa pengoperasian dasar di 2 Sistem Operasi: Windows dan GNU/Linux.
 
 ### Tujuan 🎯
 1. Menciptakan kebiasan dasar untuk menjadi profesional
@@ -122,3 +123,7 @@ mkdir zul
 ```bash
 cd zul
 ```
+
+---
+
+*Dibuat pada 25 Juli 2023*
