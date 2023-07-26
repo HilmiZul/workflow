@@ -37,7 +37,7 @@ Cmd adalah aplikasi yang memungkinkan memberikan perintah kepada program dan ata
 
 atau
 
-1. Di *keyboard* tekan *shortcut* **Window+E**
+1. Di *keyboard* tekan *shortcut* **Window+R**
 2. Ketik **cmd**
 3. Tekan **Enter**
 
