@@ -69,14 +69,22 @@ mkdir zul
 cd zul
 ```
 
+### F. Melihat isi folder menggunakan Cmd di Windows
+**dir** adalah perintah untuk melihat isi folder saat ini.
+1. Buka **cmd**
+2. Ketik perintah berikut
+```bash
+dir
+```
+
 ---
 
-### F. Menggunakan Files di GNU/Linux
+### G. Menggunakan Files di GNU/Linux
 Files di GNU/Linux bernama Nautilus adalah aplikasi pengelolaan *file* dan *folder*. Berikut langkah untuk membukanya.
 - Klik tombol **Start** lalu ketik **File**
 - atau klik tombol **Drawer** / titik-titik disudut kiri bawah.  Lalu ketik dan pilih **File**
 
-### G. Membuat Folder menggunakan Files di GNU/Linux
+### H. Membuat Folder menggunakan Files di GNU/Linux
 1. Buka **Files**
 2. Masuk ke folder **Documents**
 3. Klik kanan -> New Folder
@@ -89,14 +97,14 @@ atau
 2. Masuk ke folder **Documents**
 3. Di *keyboard* tekan *shortcut* **CTRL + SHIFT + N**
 
-### H. Menggunakan Terminal di GNU/Linux
+### I. Menggunakan Terminal di GNU/Linux
 Terminal adalah aplikasi yang memungkinkan memberikan perintah kepada program dan atau sistem operasi.
 1. Klik tombol **Start** lalu ketik **terminal**
 2. Pilih **Terminal**
 
 atau klik tombol **Drawer** / titik-titik disudut kiri bawah.  Lalu ketik dan pilih **Terminal**
 
-### I. Berpindah folder menggunakan Terminal di GNU/Linux
+### J. Berpindah folder menggunakan Terminal di GNU/Linux
 **cd** adalah perintah untuk berpindah folder.
 1. Buka **Terminal**
 prompt akan terlihat berikut.
@@ -111,7 +119,7 @@ user@pplg:~/Documents$
 ```
 4. Untuk kembali dari folder tertentu ketik perintah **`cd ..`**
 
-### J. Membuat folder menggunakan Terminal di GNU/Linux
+### K. Membuat folder menggunakan Terminal di GNU/Linux
 **mkdir** (*make directory*) adalah perintah untuk membuat folder.
 1. Buka **Terminal**
 2. Masuk ke folder **Documents**
@@ -124,6 +132,15 @@ mkdir zul
 cd zul
 ```
 
+### L. Melihat isi folder menggunakan Cmd di Windows
+**ls** atau **dir** adalah perintah untuk melihat isi folder saat ini.
+1. Buka **Terminal**
+2. Ketik perintah berikut
+```bash
+ls
+```
+
 ---
 
 *Dibuat pada 25 Juli 2023*
+*Diperbaharui pada 26 Juli 2023*
