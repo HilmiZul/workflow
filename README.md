@@ -132,7 +132,7 @@ mkdir zul
 cd zul
 ```
 
-### L. Melihat isi folder menggunakan Cmd di Windows
+### L. Melihat isi folder menggunakan Cmd di GNU/Linux
 **ls** atau **dir** adalah perintah untuk melihat isi folder saat ini.
 1. Buka **Terminal**
 2. Ketik perintah berikut
