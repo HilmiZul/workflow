@@ -1,0 +1,70 @@
+# Pemrogaman Mobile
+`Materi 3.1`: Memahami Bahasa Pemrograman Mobile
+
+`Jobsheet 4`: Menggunakan Function
+
+## Persiapan
+- Buka folder masing-masing yang telah dibuat pada pertemuan sebelumnya
+- Buka dengan VSCode lewat Cmd
+- _langkah ini di skip karena telah disampaikan. silakan lihat [flow.zulhilmi.id](https://flow.zulhilmi.id)_
+
+## Regular Function
+- Diawali dengan _keyword_ `function` dan diikuti nama _function_-nya. Contoh seperti berikut.
+
+```js
+# file: regularfun.js
+
+function home() {
+  console.log("Selamat Datang di Home Screen")
+}
+
+home()
+```
+- Jalankan di Cmd/Terminal
+```bash
+node regularfun.js
+```
+
+- Function berparameter. Contoh berikut, function `home()` akan menerima parameter `nama`.
+```js
+# file: regularfun.js
+
+function home(nama) {
+  console.log("Halo " + nama)
+  console.log("Selamat Datang di Home Screen")
+}
+
+home("Zul")
+```
+- Jalankan lagi di Cmd/Terminal
+```bash
+node regularfun.js
+```
+
+## Arrow Function
+- Sedikit berbeda dari Regular function, namun fungsinya sama. Diawali dengan _keyword_ `const` dan diikuti nama _variable_-nya. Contoh seperti berikut.
+
+```js
+# file: arrowfun.js
+
+const login = () => {
+  console.log("Login Screen")
+}
+
+login()
+```
+- Jalankan di Cmd/Terminal
+```bash
+node regularfun.js
+```
+
+# Tugas 👨🏻‍💻
+
+- Buatlah 2 jenis _function_ (Regular dan Arrow Function) untuk menampilkan `namaDepan`, `namaBelakang` dan `email` yang dimasukkan kedalam parameter
+- Masing-masing beri nama file:
+  - `profile_reg_function.js` untuk regular function
+  - `profile_arrow_function.js` untuk arrow function
+- Buat repository [GitHub](https://github.com) bernama pm-31
+- Upload/push ke repository tersebut
+- Copy link repository dan submit ke [Google Form](https://forms.gle/MS5AEYfNbrxmCTQF8)
+
