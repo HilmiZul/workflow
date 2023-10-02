@@ -53,7 +53,7 @@ npm run dev
 
 ## 📂 Struktur Folder
 
-```js
+```bash
 perpus-digital/
 ├── README.md
 ├── app.vue
