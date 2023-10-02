@@ -2,7 +2,7 @@
 
 `Materi 4.4`: Rancang Kebutuhan Sistem (bagian 2) / Menerapkan Metode _System Requirement_
 
-`Jobsheet sebelumnya`: [PTGM 5: Rancangan Kebutuhan Sistem (bagian 2)](https://classroom.google.com/u/5/c/NjE3OTU4MDMwNTcz/m/NjI0MjczNDAzNDU1/details)
+`Jobsheet sebelumnya`: [PTGM 6: Rancang Kebutuhan Sistem - Perpus Digital (bagian 1)](https://classroom.google.com/u/5/c/NjE3OTU4MDMwNTcz/m/NjI0MjczNDAzNDU1/details)
 
 `Jobsheet 2`: Implementasi membuat proyek **Catatan Pengunjung Perpustakaan** dengan [Nuxt.js](https://nuxt.com)
 
