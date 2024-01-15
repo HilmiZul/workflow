@@ -19,7 +19,7 @@ Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksib
   - System Requirement
   - Pembagian Tugas
   - Timeline dan penjadwalan
-  - Teknologi yang digunakan
+  - Teknologi yang digunakan:
       - Desain UI dan Diagram: [Figma](https://figma.com)/Sketch dan [draw.io](https://draw.io)
       - Backend: [supabase.com](https://supabase.com) (layanan backend menggunakan PostgreSQL)
         - Agar fokus coding di frontend dan tidak banyak coding di backend
