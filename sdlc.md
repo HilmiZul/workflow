@@ -20,18 +20,19 @@ Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksib
   - Pembagian Tugas
   - Timeline dan penjadwalan
   - Teknologi yang digunakan
-    - Desain UI dan Diagram: [Figma](https://figma.com)/Sketch dan [draw.io](https://draw.io)
-    - Backend: [supabase.com](https://supabase.com) (layanan backend menggunakan PostgreSQL)
-      - Agar fokus coding di frontend dan tidak banyak coding di backend
-      - Semua tabel ototamis dibuatkan RESTful API
-      - Tidak dipusingkan dengan migrasi proyek database
-      - Skema Visual
-      - Include dengan Authentication dan Storage
-    - Frontend:
-      - Javascript (mostly SDM sudah bersertifikat Javascript dari [Dicoding.com](https://dicoding.com))
-      - [Nuxt.js](https://nuxt.com) (framework Vue)
-      - UI menggunakan [Bootstrap](https://getbootstrap.com)/Tailwind
-      - Module integrasi [nuxt/supabase](https://supabase.nuxtjs.org/)
+      - Desain UI dan Diagram: [Figma](https://figma.com)/Sketch dan [draw.io](https://draw.io)
+      - Backend: [supabase.com](https://supabase.com) (layanan backend menggunakan PostgreSQL)
+        - Agar fokus coding di frontend dan tidak banyak coding di backend
+        - Semua tabel ototamis dibuatkan RESTful API
+        - Tidak dipusingkan dengan migrasi proyek database
+        - Skema Visual
+        - Include dengan Authentication dan Storage
+      - Frontend:
+        - Javascript (mostly SDM sudah bersertifikat Javascript dari [Dicoding.com](https://dicoding.com))
+        - [Nuxt.js](https://nuxt.com) (framework Vue)
+        - UI menggunakan [Bootstrap](https://getbootstrap.com)/Tailwind
+        - Module integrasi [nuxt/supabase](https://supabase.nuxtjs.org/)
+      - Deploy/hosting frontend menggunakan [Vercel](https://vercel.com)/[Netlify](https://netlify.com)
      
 3. Design
   - Flowchart
