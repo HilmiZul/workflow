@@ -28,7 +28,7 @@ Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksib
       - Skema Visual
       - Include dengan Authentication dan Storage
     - Frontend:
-      - Javascript (mostly sudah bersertifikat Javascript dari [Dicoding.com](https://dicoding.com))
+      - Javascript (mostly SDM sudah bersertifikat Javascript dari [Dicoding.com](https://dicoding.com))
       - [Nuxt.js](https://nuxt.com) (framework Vue)
       - UI menggunakan [Bootstrap](https://getbootstrap.com)/Tailwind
       - Module integrasi [nuxt/supabase](https://supabase.nuxtjs.org/)
