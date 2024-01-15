@@ -22,7 +22,8 @@ Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksib
   - Teknologi yang digunakan:
         - Desain UI dan Diagram: [Figma](https://figma.com)/Sketch dan [draw.io](https://draw.io)
         - Backend: [supabase.com](https://supabase.com) (layanan backend menggunakan PostgreSQL)
-          - Agar fokus coding di frontend dan tidak banyak coding di backend
+          - Maintenance dilakukan oleh Supabase
+          - Mengurangi coding di backend dan fokus di frontend
           - Semua tabel ototamis dibuatkan RESTful API
           - Tidak dipusingkan dengan migrasi proyek database
           - Skema Visual
