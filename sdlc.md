@@ -47,14 +47,14 @@ Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksib
      
 5. Development
   - Backend
-    - Mendefinisikan tabel
-    - Membuat Policy untuk setiap tabel yang RLS-nya aktif (Row Level Security)
-    - Menyiapkan REST API Key 
+      - Mendefinisikan tabel
+      - Membuat Policy untuk setiap tabel yang RLS-nya aktif (Row Level Security)
+      - Menyiapkan REST API Key 
   - Frontend 
-    - Membuat inisial proyek
-    - Install dependencies/requirements
-    - Slicing Design (dari Figma ke Coding)
-    (Consume data dari API)
+      - Membuat inisial proyek
+      - Install dependencies/requirements
+      - Slicing Design (dari Figma ke Coding)
+      - (Consume data dari API)
      
 6. Deployment
   - Non production 
