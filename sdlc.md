@@ -7,7 +7,7 @@ Setiap rangkaian proses yang dilakukan mungkin saja berbeda atau sama disetiap i
 
 Agile, metode ini menjalankan tahap secara berulang atau iteratif. Proses menjalankan stau putaran tahapan disebut dengan Sprint.
 
-Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksibel, artinya tidak baku selalu seperti ini.
+Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksibel, artinya tidak selalu seperti ini.
 
 1. Analisis
   - Rencana Bisnis/membuat BRD (Business Requirement Document)
