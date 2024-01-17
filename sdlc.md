@@ -18,7 +18,7 @@ Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksib
     - UI/UX [Figma](https://figma.com)/Sketch
     - Prototype
 
-3. Technical Design
+3. Technical Design & Technology Stack
     - ERD 
     - Use case diagram
     - Class diagram 
