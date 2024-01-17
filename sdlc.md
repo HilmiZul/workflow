@@ -10,54 +10,47 @@ Agile, metode ini menjalankan tahap secara berulang atau iteratif. Proses menjal
 Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksibel, artinya tidak selalu seperti ini.
 
 1. Analisis
-  - Rencana Bisnis/membuat BRD (Business Requirement Document)
-  - Alur bisnis
-
-2. Plan
-  - Target user
-  - User requirement
-  - System Requirement
-  - Pembagian Tugas
-  - Timeline dan penjadwalan
-  - Teknologi yang digunakan:
-        - Desain UI dan Diagram: [Figma](https://figma.com)/Sketch dan [draw.io](https://draw.io)
-        - Backend: [supabase.com](https://supabase.com) (layanan backend menggunakan PostgreSQL)
-          - Maintenance dilakukan oleh Supabase
-          - Mengurangi coding di backend dan fokus di frontend
-          - Semua tabel ototamis dibuatkan RESTful API
-          - Tidak dipusingkan dengan migrasi proyek database
-          - Skema Visual
-          - Include dengan Authentication dan Storage
-        - Frontend:
-          - Javascript (mostly SDM sudah bersertifikat Javascript dari [Dicoding.com](https://dicoding.com))
-          - [Nuxt.js](https://nuxt.com) (framework Vue)
-          - UI menggunakan [Bootstrap](https://getbootstrap.com)/Tailwind
-          - Module integrasi [nuxt/supabase](https://supabase.nuxtjs.org/)
-        - Deploy/hosting frontend menggunakan [Vercel](https://vercel.com)/[Netlify](https://netlify.com)
+    - Rencana Bisnis/membuat BRD (Business Requirement Document)
+    - Alur bisnis
+    - Target user
+    - User requirement
+    - System Requirement
      
-3. Design
-  - Flowchart
-  - ERD
-  - Use case diagram
-  - Class diagram
-  - UI/UX
+2. Design
+    - UI/UX [Figma](https://figma.com)/Sketch
+    - Prototype
+
+3. Technical Design
+    - ERD 
+    - Use case diagram
+    - Class diagram 
+    - Backend: [supabase.com](https://supabase.com) 
+      - PostgreSQL
+      - Auth.
+      - Storage
+    - Frontend:
+      - [Nuxt.js](https://nuxt.com) (framework Vue)
+      - [Bootstrap](https://getbootstrap.com)/Tailwind
+      - Module integrasi [nuxt/supabase](https://supabase.nuxtjs.org/)
+    - Version Control: Git
+    - Github
+    - Deploy/hosting  [Vercel](https://vercel.com)
 
 4. Architecture Review
-  - Review yang sudah dibuat di poin 1 s.d 3 
-     
+  - Review yang sudah dibuat di poin 3
+
 5. Development
   - Backend:
-        - Mendefinisikan tabel
+        - Mendefinisikan tabel sesuai poin 3
         - Membuat Policy untuk setiap tabel yang RLS-nya aktif (Row Level Security)
-        - Menyiapkan REST API Key 
+        - Menyiapkan REST API Key
   - Frontend: 
+        - Slicing Design dari poin 2
         - Membuat inisial proyek
         - Install dependencies/requirements
-        - Slicing Design (dari Figma ke Coding)
         - (Consume data dari API)
      
-6. Deployment
-  - Non production 
+6. Non-Production Deployment
 
 7. Testing
   - QA
