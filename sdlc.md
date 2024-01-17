@@ -13,8 +13,6 @@ Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksib
     - Rencana Bisnis/membuat BRD (Business Requirement Document)
     - Alur bisnis
     - Target user
-    - User requirement
-    - System Requirement
      
 2. Design
     - UI/UX [Figma](https://figma.com)/Sketch
@@ -24,6 +22,7 @@ Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksib
     - ERD 
     - Use case diagram
     - Class diagram 
+    - System Requirement
     - Backend: [supabase.com](https://supabase.com) 
       - PostgreSQL
       - Auth.
