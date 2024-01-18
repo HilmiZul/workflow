@@ -9,10 +9,10 @@ Agile, metode ini menjalankan tahap secara berulang atau iteratif. Proses menjal
 
 Berikut rangkaian proses pengembangan _software_. Rangkaian ini sifatnya fleksibel, artinya tidak selalu seperti ini.
 
-1. Analisis
+1. Analisis (non-teknis)
     - Rencana Bisnis/membuat BRD (Business Requirement Document)
-    - Alur bisnis
-    - Target user
+    - System Requirement
+    - Alur 
      
 2. Design
     - UI/UX [Figma](https://figma.com)/Sketch
